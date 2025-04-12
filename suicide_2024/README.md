@@ -1,1 +1,1 @@
-Dempgraphic models are corrections for the pre-registered models.
+Demographic models are corrections for the pre-registered models.
